@@ -9,10 +9,10 @@
 
 ## Гайды
 
-**Translation ended here**
-
 ### C#
-The programming language you'll be using to contribute to SS14. If you've never programmed before, C# is a solid pick for a first language!
+Это язык программирования, который вы будете использовать для разработки SS14. Если вы раньше не программировали до этого, C# станет для вас хорошим началом!
+
+**TODO BEGIN: add russian resources here**
 
 **[C# A Player's Guide 5th Edition](https://www.amazon.com/dp/0985580151)**
 A very engaging book for beginners to C#. Very modern, making use of C#10 and .NET 6 with tons of projects and challenges to actually make use of your coding skills. Highly recommended. Buy whatever the newest edition is (regardless of what this says), as we always stay up to date.
@@ -29,16 +29,20 @@ For those who already have some experience (read: knows what "modern, object-ori
 **[Learn C# in Y minutes](https://learnxinyminutes.com/docs/csharp/)**
 Reference sheet presented through a massive C# file. Again, this is more useful for those who already understand how to program and just need a quick reference for what the syntax is. 
 
+**TODO END**
+
 ### Git
-Git is "version control software", aka the reason a bunch of people can contribute to one project without it devolving into chaos. Git's probably going to seem like opaque bigbrain nonsense for a bit, but then it clicks and then you, too, get to try to convince people "it's actually really simple, see, imagine you have a tree--"
+Git является "программой для контроля версий", т.е. то, что позволяет нескольким разработчикам работать над одним проектом и не превращать рабочий процесс в хаос. Сначала git может показаться непонятной пугающей бессмыслицей, но потом, когда у вас "щёлкнет в голове", вы так же станете убеждать людей в том, что "на самом деле, это не так сложно. Просто представь ветку..."
 
-**[Git for the SS14 Developer](./git-for-the-ss14-developer.md)**
-Good on its own and has a lot of resources for learning Git further. Explains the what, the why, its role in SS14, etc.
+**[Git для разработчиков SS14](./git-for-the-ss14-developer.md)**
+Гайд хорош сам по себе и имеет много отличных ресурсов для изучения git. Там объясняется, например, его роль в разработке SS14.
 
-**[Learn Git Branching](https://learngitbranching.js.org/)**
-An interactive, gamified way of learning Git. Plays well with "Git for the SS14 Developer" so you can develop a more intuitive understanding of what it's talking about.
+**[Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)**
+Замечательный гайд на Git в виде игры. Отлично сочетается с "Git для разработчиков SS14", так что вы сможете понять его на более глубоком уровне.
 
-### Other
+### Другое
+
+**TODO: Add here resources for learning programming in russian**
 
 **[CS50 | Harvard](https://cs50.harvard.edu/college/2021/spring/weeks/6/)**
 Teaches computer programming and how computers work. Covers a broad swathe of topics (different languages like C and Python, algorithms, memory, etc). To oversimplify: learning things like "for loops" and "if statements" teaches you how to talk the talk. Breaking down why algorithms work, the differences between programming languages, actually writing programs to solve puzzles, etc. is the "walk the walk" part. You can get started without this and pick it up naturally over time, though it's a slower process.
