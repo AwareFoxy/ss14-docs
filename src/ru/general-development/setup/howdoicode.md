@@ -20,11 +20,11 @@ A very engaging book for beginners to C#. Very modern, making use of C#10 and .N
 **[CSharp Fundamentals for Absolute Beginners | Channel 9](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)**
 A video series covering the absolute basics of programming, C# style. Also walks you through installing an IDE (a program that makes it much easier for you to write code).
 
-**[C# 101 | Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)**
-The videos are so-so (skimming over terms like "variable", "string", and "interpolation"), but the tutorials themselves are solid. If you prefer interactive written tutorials over watching videos, they're completable in your web browser [here](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world).
+**[Знакомство с C# | Microsoft](https://learn.microsoft.com/ru-ru/dotnet/csharp/tour-of-csharp/tutorials/)**
+Видео там не очень (быстро пробегаются по таким терминам, как "переменная", "строка" и "интерполяция"), но сами гайды отличны. Если вы предпочитаете интерактивные гайды вместо просмотра видео, можете открыть их в браузере [тут](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world).
 
-**Microsoft's various C# guides**
-For those who already have some experience (read: knows what "modern, object-oriented, and type-safe programming language" is, since that's the first line), the [getting started guide](https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/) gives some basic examples on how to use C# and shows how to use Visual Studio for writing C#. The [programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/) gives more specific examples of C# language features.
+**Разные ресурсы по C# от Microsoft**
+Для тех, кто уже имеет некоторый опыт (читать как: знает, что такое "современный, объектно-ориентированный и безопасный язык программирования", т.к. это первая строка), [документация по C#](https://docs.microsoft.com/ru-ru/dotnet/csharp/getting-started/) предоставляет несколько примеров, как использовать C# и показывает как использовать Visual Studio для написания кода на C#. [Основные понятия программирования](https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/) предоставляют более специфичные примеры особенностей языка.
 
 **[Learn C# in Y minutes](https://learnxinyminutes.com/docs/csharp/)**
 Reference sheet presented through a massive C# file. Again, this is more useful for those who already understand how to program and just need a quick reference for what the syntax is. 
